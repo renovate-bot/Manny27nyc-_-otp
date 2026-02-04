@@ -14,7 +14,7 @@
     "homepage": "https://github.com/ulfjack/ryu",
     "licenseDeclared": "Apache-2.0 OR BSL-1.0",
     "name": "ryu",
-    "versionInfo": "1264a946ba66eab320e927bfd2362e0c8580c42f",
+    "versionInfo": "334d08dba83e80aa064e193e5632e4e39cf59b91",
     "path": ["./erts/emulator/ryu/common.h",
              "./erts/emulator/ryu/d2s.c",
              "./erts/emulator/ryu/d2s_full_table.h",
